@@ -1,0 +1,17 @@
+{
+  "name": "GMForge — VTT Co-Pilot & Player Hub",
+  "short_name": "GMForge",
+  "description": "AI Session Scribe, Instant Encounter Builder & Off-Session Player Hub for Foundry VTT, Owlbear Rodeo 2.0 & Roll20.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

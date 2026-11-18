@@ -1,0 +1,16 @@
+{
+  "name": "GMForge AI Co-Pilot",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "author": "GMForge",
+  "description": "AI Session Scribe, Instant Encounter & Statblock Builder, and Live Interactive Shops for Owlbear Rodeo 2.0.",
+  "homepage_url": "https://alanhenschel.github.io/gmforge-releases/",
+  "icon": "https://alanhenschel.github.io/gmforge-releases/icon.svg",
+  "action": {
+    "title": "GMForge Co-Pilot",
+    "icon": "https://alanhenschel.github.io/gmforge-releases/icon.svg",
+    "popover": "https://alanhenschel.github.io/gmforge-releases/?vtt=owlbear",
+    "height": 720,
+    "width": 460
+  }
+}
